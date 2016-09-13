@@ -1,4 +1,4 @@
-# Parity debian package
+# Parity debian package for Raspberrypi 
 
 These are the files used for building the debian package. It is a rebuild from the original Ethcore package, basically a combination of `dpkg -X` and `dpkg -e` commands.
 
