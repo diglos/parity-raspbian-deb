@@ -1,0 +1,9 @@
+Package: parity-rasp
+Version: 1.3.0-0
+Architecture: armhf
+Maintainer: Diego Losada <diego.losadaf@gmail.com>
+Installed-Size: 32042
+Section: science
+Priority: extra
+Homepage: https://github.com/diglos/raspberrypi-ethereum-node
+Description: Ethereum network client for Raspberrypi by Ethcore

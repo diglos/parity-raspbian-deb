@@ -1,0 +1,6 @@
+#!/bin/sh
+
+systemctl enable parity
+systemctl start parity
+
+exit 0

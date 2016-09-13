@@ -1,0 +1,13 @@
+[Unit]
+Description=Ethereum Parity client daemon
+After=network.target
+
+[Service]
+EnvironmentFile=/etc/parity/parity.conf
+ExecStart=/usr/bin/parity $ARGS
+Restart=always
+User=pi
+
+[Install]
+WantedBy=multi-user.target
+
