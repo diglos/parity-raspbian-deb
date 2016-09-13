@@ -8,6 +8,6 @@ You can rebuild the package by running:
 
 Note that parity binary is compressed as of github file size limit.
 
-This deb package is part of the custom ethereum node raspbian image:
+This deb package is part of the custom ethereum node raspbian image for Raspberrypi:
 
 https://github.com/diglos/pi-gen
