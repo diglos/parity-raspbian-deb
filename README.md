@@ -6,8 +6,8 @@ You can rebuild the package by running:
 
 `dpkg -b parity-rasp_1.3.0-0_armhf`
 
-Note that parity binary is compressed as of github file size limit.
+Note that Parity binary is compressed as of Github file size limit.
 
-This deb package is part of the custom ethereum node raspbian image for Raspberry Pi:
+This deb package is part of the custom Ethereum node Raspbian image for Raspberry Pi:
 
 https://github.com/diglos/pi-gen
